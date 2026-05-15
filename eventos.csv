@@ -1,0 +1,21 @@
+id,nombre,fecha_inicio,fecha_fin,tipo,tematica,sold_out
+E01,Festival Vallenato,2025-04-26,2025-04-30,Festival,Música,true
+E02,Feria de Cali,2025-12-25,2025-12-30,Feria,Música,false
+E03,Festival de Cine de Cartagena,2025-03-01,2025-03-07,Festival,Arte,false
+E04,Rock al Parque,2025-09-20,2025-09-22,Festival,Música,false
+E05,Feria de las Flores,2025-08-01,2025-08-10,Feria,Naturaleza,false
+E06,Hay Festival Cartagena,2026-01-30,2026-02-02,Festival,Cultura,false
+E07,Festival de Jazz de Bogotá,2025-10-10,2025-10-15,Festival,Música,false
+E08,Colombia Moda,2025-07-22,2025-07-25,Feria,Arte,false
+E09,Festival Iberoamericano de Teatro,2026-03-06,2026-03-22,Festival,Arte,false
+E10,Cumbre Mundial de Arte y Cultura,2025-11-05,2025-11-08,Festival,Arte,false
+E11,Feria Artesanal de Villa de Leyva,2025-08-15,2025-08-18,Feria,Historia,false
+E12,Festival Petronio Álvarez,2025-08-20,2025-08-25,Festival,Música,false
+E13,Fiesta Nacional del Café,2025-09-01,2025-09-05,Feria,Gastronomía,false
+E14,Noche de Museos Bogotá,2025-05-18,2025-05-18,Festival,Cultura,false
+E15,Barranquijazz,2025-10-03,2025-10-05,Festival,Música,false
+E16,Expo Oriente Antioqueño,2025-06-12,2025-06-15,Feria,Naturaleza,false
+E17,Festival de la Leyenda Vallenata,2026-04-20,2026-04-25,Festival,Música,false
+E18,Sabor Barranquilla,2025-11-20,2025-11-23,Feria,Gastronomía,false
+E19,Festival de Cometas de Bucaramanga,2025-08-05,2025-08-07,Festival,Aventura,false
+E20,Feria Internacional del Libro Bogotá,2025-04-23,2025-05-05,Feria,Cultura,false

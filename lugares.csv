@@ -1,0 +1,21 @@
+id,nombre,tipo,calificacion_avg,popularidad_actual
+L01,Castillo San Felipe,Museo,4.8,950
+L02,La Candelaria,Barrio histórico,4.5,870
+L03,Parque Arví,Parque,4.7,1200
+L04,El Peñol,Parque,4.9,1500
+L05,Museo del Oro,Museo,4.6,1100
+L06,Torre del Reloj,Monumento,4.4,780
+L07,Ciudad Perdida,Parque,4.8,600
+L08,Jardín Botánico,Parque,4.3,900
+L09,Barrio Italia,Restaurante,4.2,500
+L10,Parque Tayrona,Parque,4.9,2000
+L11,La Vorágine,Restaurante,4.5,420
+L12,Cerro Nutibara,Parque,4.1,650
+L13,Museo de Antioquia,Museo,4.6,730
+L14,El Centro Histórico Mompox,Barrio histórico,4.7,380
+L15,Laguna de La Cocha,Parque,4.8,310
+L16,Café Jesús Martín,Restaurante,4.4,490
+L17,Plaza de Bolívar Bogotá,Monumento,4.3,1400
+L18,Zoológico de Cali,Parque,4.2,860
+L19,Malecón del Río Cali,Parque,4.0,700
+L20,Finca El Ocaso,Restaurante,4.6,330

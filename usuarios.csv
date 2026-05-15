@@ -1,0 +1,16 @@
+id,nombre,nacionalidad,presupuesto_lvl,intereses,nivel_experto
+U01,Andrés Morales,Colombiana,3,"[Aventura,Gastronomía]",87
+U02,Laura Gómez,Colombiana,2,"[Cultura,Arte]",65
+U03,Carlos Ruiz,Mexicana,4,"[Lujo,Gastronomía]",92
+U04,Valentina Pérez,Colombiana,1,"[Naturaleza,Aventura]",45
+U05,Sebastián Torres,Argentina,3,"[Arte,Música]",78
+U06,Camila Díaz,Colombiana,2,"[Relax,Bienestar]",55
+U07,Felipe Martínez,Chilena,4,"[Lujo,Historia]",88
+U08,Isabella Vargas,Colombiana,1,"[Naturaleza,Fotografía]",40
+U09,Mateo Herrera,Venezolana,2,"[Gastronomía,Cultura]",60
+U10,Gabriela Castro,Colombiana,3,"[Aventura,Fotografía]",72
+U11,Daniel Ospina,Colombiana,4,"[Lujo,Arte]",95
+U12,Sara Jiménez,Peruana,2,"[Historia,Cultura]",58
+U13,Julián Ríos,Colombiana,1,"[Música,Relax]",35
+U14,Natalia Soto,Ecuatoriana,3,"[Gastronomía,Bienestar]",80
+U15,Tomás Acosta,Colombiana,2,"[Naturaleza,Historia]",50

@@ -1,0 +1,11 @@
+id,nombre,clima_dominante,altitud,gentilicio
+C01,Cartagena,Tropical,2,cartagenero
+C02,Medellín,Templado,1495,paisa
+C03,Bogotá,Frío,2600,bogotano
+C04,Cali,Cálido,1000,caleño
+C05,Santa Marta,Tropical,5,samario
+C06,Bucaramanga,Templado,959,bumangués
+C07,Barranquilla,Cálido,18,barranquillero
+C08,Manizales,Frío,2153,manizaleño
+C09,Pereira,Templado,1411,pereirano
+C10,Villa de Leyva,Frío seco,2149,villaleyvano

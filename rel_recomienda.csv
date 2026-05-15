@@ -1,0 +1,15 @@
+usuario_id,lugar_id,canal,codigo_descuento
+U01,L03,Instagram,ARVI20
+U01,L04,WhatsApp,PENOL15
+U02,L05,Boca a boca,ORO10
+U03,L01,Instagram,CASTILLO25
+U04,L10,Instagram,TAYRONA10
+U05,L13,WhatsApp,ANTIOQUIA10
+U07,L01,Instagram,SFELI30
+U08,L04,Instagram,PENOL20
+U09,L11,Boca a boca,VORAGINE15
+U10,L10,Instagram,TAYRONA20
+U11,L05,WhatsApp,ORO20
+U12,L14,Boca a boca,MOMPOX10
+U14,L16,Instagram,OCASO15
+U15,L15,WhatsApp,COCHA10
